@@ -1,8 +1,8 @@
 # My-Data-Science-Projects
 The file below has links to the projects that I created from scratch as a part of Coursera courses. However, there were a lot of course assignments (ungraded) in the middle that taught me skills shown in these notebooks but also other capabilities in Data Science.
 Please, note, if they do not render good, use this [link](https://jupyter.org/).
-1) [Analyzing US Economic Data and Building a Dashboard ](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/7d71dbaa-eef8-4aae-9f1a-1d68d3156249/view?projectid=f1c0c295-2231-4a5f-944e-303a6b06b2b6&context=analytics
-Performing basic tasks with Python)
+1) [Analyzing US Economic Data and Building a Dashboard ](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/7d71dbaa-eef8-4aae-9f1a-1d68d3156249/view?projectid=f1c0c295-2231-4a5f-944e-303a6b06b2b6&context=analytics)
+Performing basic tasks with Python, getting to know Jupyter notebooks.
 2) [Battle of Neighborhoods: Where to set up a café in Rotterdam?](https://github.com/ganastas/github-example)
 Using Pandas, Clustering, and folium maps to discover the best place to set up cafes in Rotterdam. Please, note that Folium maps are not visible through GitHub. To see them, paste the link of the workbook to https://jupyter.org/.
 3) [Predicting grades of students in Dutch Schools](https://github.com/ganastas/Predicting-grades-of-students-in-Dutch-schools)
